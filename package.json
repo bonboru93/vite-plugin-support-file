@@ -1,6 +1,6 @@
 {
   "name": "vite-plugin-support-file",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "Double click index.html to run your project.",
   "type": "module",
   "main": "index.js",

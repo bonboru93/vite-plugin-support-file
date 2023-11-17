@@ -7,7 +7,8 @@ export default () => ({
                 output: {
                     format: 'system'
                 }
-            }
+            },
+            cssCodeSplit: false
         }
     }),
     transformIndexHtml: (html, ctx) => {
