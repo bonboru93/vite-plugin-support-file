@@ -1,0 +1,19 @@
+{
+  "name": "vite-plugin-support-file",
+  "version": "1.0.0",
+  "description": "Double click index.html to run your project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vite",
+    "file"
+  ],
+  "author": "bonboru93",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bonbor93/vite-plugin-support-file"
+  },
+  "license": "ISC"
+}
